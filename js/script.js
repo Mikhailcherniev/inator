@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Defina os grupos de imagens
     const imageGroups = [
-        ['../images/img1.png', './img2.png', './img3.png', './img4.png', './img5.png', './img6.png', './img7.png'],
+        ['../images/img1.png', '../images/img2.png', './img3.png', './img4.png', './img5.png', './img6.png', './img7.png'],
         ['./img1B.png', './img2B.png', './img3B.png', './img4B.png', './img5B.png', './img6B.png', './img7BS.png']
     ];
     let currentGroupIndex = 0;
